@@ -81032,7 +81032,7 @@ if(s!=null)return this.a.aij(s)
 else return B.ct},
 $S:202}
 A.as3.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.as1.prototype={
 $1(a){var s=this.a
@@ -81110,7 +81110,7 @@ p.push(!1)}r=q.e.length!==0?30:0
 return A.f8(B.aE,A.b([A.aO(o,q.Eu(s),B.k,o,o,o,o,o,new A.au(0,r,0,0),o,o,o,o),q.ail(s)],t.p),B.Q,B.aQ)}else return B.ct},
 $S:202}
 A.asl.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.ask.prototype={
 $2(a,b){var s=null,r=this.a
@@ -81188,7 +81188,7 @@ A.as9.prototype={
 $1(a){var s,r=this.a.c
 r.toString
 s=t.X
-return A.co(r,!1).HB("/chat",s,s)},
+return A.co(r,!1).HB("/",s,s)},
 $S:551}
 A.Ez.prototype={
 ap(){return new A.EA(new A.b7(null,t.am),A.a5T(),B.l)}}
@@ -81228,7 +81228,7 @@ A.al2.prototype={
 $0(){var s,r=this.a.c
 r.toString
 s=t.X
-A.co(r,!1).HB("/chat",s,s)},
+A.co(r,!1).HB("/",s,s)},
 $S:4}
 A.al5.prototype={
 $1(a){var s=this.a
@@ -81599,7 +81599,7 @@ if(s!=null)return this.a.Eu(s)
 else return B.ct},
 $S:208}
 A.avm.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.avj.prototype={
 $0(){var s,r=this.a
@@ -81770,7 +81770,7 @@ s=this.a
 return A.E9(s.tg(),new A.Cp(b.b,s.c,null),null,null)},
 $S:565}
 A.aey.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.aeu.prototype={
 $2(a,b){var s=null
@@ -81820,7 +81820,7 @@ if(s!=null)return this.a.aih(a,s,this.b)
 else return B.ct},
 $S:567}
 A.afJ.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.afH.prototype={
 $0(){},
@@ -81835,10 +81835,10 @@ if(a===1)r.kl(m.h(q,p).a).aB(0,new A.afE(o),n)
 else r.kw(m.h(q,p).a).aB(0,new A.afF(o),n)},
 $S:99}
 A.afE.prototype={
-$1(a){return A.co(this.a,!1).ic("/chat",t.X)},
+$1(a){return A.co(this.a,!1).ic("/",t.X)},
 $S:209}
 A.afF.prototype={
-$1(a){return A.co(this.a,!1).ic("/chat",t.X)},
+$1(a){return A.co(this.a,!1).ic("/",t.X)},
 $S:209}
 A.Do.prototype={
 F(a,b){var s,r=null,q=this.c
@@ -81873,7 +81873,7 @@ if(s!=null)return this.a.aio(s)
 else return B.x3},
 $S:196}
 A.ahz.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.ahv.prototype={
 $0(){},
@@ -81904,7 +81904,7 @@ if(s!=null)return this.a.aim(s,a)
 else return B.ct},
 $S:208}
 A.ahH.prototype={
-$0(){return A.co(this.a,!1).ic("/chat",t.X)},
+$0(){return A.co(this.a,!1).ic("/",t.X)},
 $S:24}
 A.ahB.prototype={
 $0(){return A.co(this.a,!1).ic("/profile",t.X)},
