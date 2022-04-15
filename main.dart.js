@@ -82153,11 +82153,12 @@ return A.t(B.bU.S1(),$async$yO)
 case 2:A.e6(B.n,new A.a5V(a),t.X)
 return A.A(null,r)}})
 return A.B($async$yO,r)},
-kp(){var s=0,r=A.C(t.y),q
+kp(){var s=0,r=A.C(t.y),q,p
 var $async$kp=A.y(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:s=3
 return A.t(B.bU.HD(0,"refreshToken"),$async$kp)
-case 3:if(b!=null){q=!0
+case 3:p=b
+if(p!=null&&p.length>10){q=!0
 s=1
 break}q=!1
 s=1
