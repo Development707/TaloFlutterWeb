@@ -82224,7 +82224,6 @@ while(true)switch(s){case 0:A.k2("refresh token")
 s=2
 return A.r(B.bU.Vf(0,"refreshToken"),$async$o8)
 case 2:p=c
-A.k2(p)
 s=3
 return A.r(q.b.qg("/account/refresh-token",A.Y(["refreshToken",p],t.N,t.T),t.z),$async$o8)
 case 3:o=c
@@ -82232,7 +82231,8 @@ s=o.d===200?4:6
 break
 case 4:s=7
 return A.r(B.bU.Wk(0,"accessToken",J.R(o.a,"token")),$async$o8)
-case 7:s=5
+case 7:A.k2(p)
+s=5
 break
 case 6:s=8
 return A.r(B.bU.S5(),$async$o8)
