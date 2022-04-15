@@ -82222,8 +82222,7 @@ case 1:return A.A(q,r)}})
 return A.B($async$HO,r)},
 uN(a){var s=0,r=A.C(t.H),q=this,p,o,n,m
 var $async$uN=A.x(function(b,c){if(b===1)return A.z(c,r)
-while(true)switch(s){case 0:A.lk("refresh token")
-p=q.b
+while(true)switch(s){case 0:p=q.b
 o="/account/refresh-token"
 n=A
 m="refreshToken"
@@ -82231,7 +82230,8 @@ s=3
 return A.r(B.bU.Vf(0,"refreshToken"),$async$uN)
 case 3:s=2
 return A.r(p.qf(o,n.Y([m,c],t.N,t.T),t.z).aA(0,new A.a6u(q),t.am).e8(new A.a6v(q)),$async$uN)
-case 2:return A.A(null,r)}})
+case 2:A.lk("refresh token")
+return A.A(null,r)}})
 return A.B($async$uN,r)},
 v6(){var s=0,r=A.C(t.z),q
 var $async$v6=A.x(function(a,b){if(a===1)return A.z(b,r)
